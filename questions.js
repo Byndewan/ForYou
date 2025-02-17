@@ -53,5 +53,60 @@ let questions = [
             "C. Extra Markup Language",
             "D. Extensible Markup Language"
         ]
-    }
+    },
+    {
+        numb: 6.,
+        question: "How Many Programming Languages are there?",
+        answer: "D. 40",
+        options: [
+            "A. 10",
+            "B. 20",
+            "C. 30",
+            "D. 40"
+        ]
+    },
+    {
+        numb: 7.,
+        question: "Why is JavaScript known as a 'programming language'?",
+        answer: "A. It is a high-level programming language that enables developers to create interactive web applications.",
+        options: [
+            "A. It is a high-level programming language that enables developers to create interactive web applications.",
+            "B. It is a low-level programming language that is used to create operating systems and other software.",
+            "C. It is a scripting language that is used to create animations and games.",
+            "D. It is a programming language that is used to create mobile applications."
+        ]
+    },
+    {
+        numb: 8.,
+        question: "Who is the creator of JavaScript?",
+        answer: "C. Brendan Eich",
+        options: [
+            "A. Mujib Muhamad Yaasin",
+            "B. Muhammmad Abyan Ma'rup",
+            "C. Brendan Eich",
+            "D. Mawar Riyani"
+        ]
+    },
+    {
+        numb: 9.,
+        question: "Where can JavaScript be used?",
+        answer: "A. Anywhere where a web browser is used.",
+        options: [
+            "A. Anywhere where a web browser is used.",
+            "B. Anywhere where a server is used.",
+            "C. Anywhere where a desktop application is used.",
+            "D. Anywhere where a mobile application is used."
+        ]
+    },
+    {
+        numb: 10.,
+        question: "Do you know any other programming languages?",    
+        answer: "A. Yes, I know Python, Java, and C++.",
+        options: [
+            "A. Yes, I know Python, Java, and C++.",
+            "B. Yes, I know C, C++, and Python.",
+            "C. Yes, I know JavaScript, Python, and Java.",
+            "D. Yes, I know C#, JavaScript, and Ruby."
+        ]
+    },
 ];
